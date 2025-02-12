@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/18S1qljoGJRQXWPl_O2TnOdZAr09_GOVS
 """
 
-!pip install kagglehub dash pyngrok scikit-learn plotly
+# !pip install kagglehub dash pyngrok scikit-learn plotly
 
 import os
 import pandas as pd
