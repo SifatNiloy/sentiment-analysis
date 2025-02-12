@@ -27,7 +27,7 @@ from sklearn.metrics import silhouette_score
 import kagglehub
 
 # Importing pyngrok to expose the Dash app when running in Colab
-from pyngrok import ngrok
+# from pyngrok import ngrok
 
 ###########################################################
 # 1. Data Loading
